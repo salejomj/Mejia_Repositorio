@@ -17,9 +17,8 @@ public class Mejia_Repositorio {
     public static void main(String[] args) {
         int a = 123;
         int b = 345;
-        int c = 20;
+        int c = 12;
         System.out.println(a+b+c);
-        
     }
     
 }
